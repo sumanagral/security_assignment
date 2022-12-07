@@ -1,9 +1,14 @@
-CMPE 272 - HW #7 Security
-Group: Well, That’s a Name
-•	Design and build a PKI infrastructure that includes Root CA, Signing CA, and TLS Certificate,
+# CMPE 272 - HW #7 Security
+## Group: Well, That’s a Name
+
+•	Design and build a PKI infrastructure that includes Root CA, Signing CA, and TLS Certificate.
+
 •	E.g., as described here: http Links to an external site.://pki-tutorial.readthedocs.io/en/latest/simple Links to an external site./Links to an external site.
+
 •	Use the TLS certificate to install a web server, e.g. tomcat, https:// Links to an external site.tomcat.apache.org/tomcat-7.0-doc/ssl-howto.htmlLinks to an external site.
+
 •	Document your progress and submit Word document including github reference to code, etc..
+
 ## Create Root CA
 ### 1.1	Create directories
 To begin, use the command below to clone the repository into a new directory called 'wellthatsaname.'
